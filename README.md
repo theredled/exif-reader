@@ -1,6 +1,6 @@
 # exif-reader
 
-Reads EXIF infos from a bunch of images do things with it.
+Reads EXIF infos from a bunch of images and do things with it.
 
 ## build-metadata-file.py
 Takes all images from current folder and gathers their EXIF infos into a small `exif-catalog.db` database file in that folder, so that they can:
